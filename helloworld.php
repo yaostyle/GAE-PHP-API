@@ -1,5 +1,4 @@
 <?php
-include_once("config.php");
-
-print($_HELLO);
-echo "Hello world";
+include "config.php";
+echo 'Hello world!';
+?>
